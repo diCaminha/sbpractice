@@ -1,7 +1,6 @@
-package br.com.alura.forum.modelo;
+package com.example.alura.sbpractice.models;
 
 public enum StatusTopico {
-	
 	NAO_RESPONDIDO,
 	NAO_SOLUCIONADO,
 	SOLUCIONADO,
