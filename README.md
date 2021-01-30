@@ -14,4 +14,8 @@ dados em vez de um nome de um arquivo.
 Uma outra solução, mais simples, é usar @RestController em vez de @Controller na classe. Assim o spring já entenderá
 que todos os métodos daquele controller vão retornar dados em vez de páginas de navegação.
 
-### 
+### Auto Reloading com Spring DevTools
+
+Basta importar no pom do projeto a dependência starter do devtools, que o projeto ja vai ter o hot reload configurado.
+
+ 
